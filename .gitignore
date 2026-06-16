@@ -1,0 +1,34 @@
+# Python virtual environment 
+*venv
+
+# Compiled Python code
+*.py[cod]
+*.pyo
+*.py.class
+
+# Directories
+htmlcov
+*__pycache__
+
+# Ignore files
+.DS_Store
+
+# PyInstaller
+#   https://www.pyinstaller.org/
+*.spec
+
+# Thumbs.db
+Thumbs.db
+
+# IDEs
+*.pydevd
+*.pydevd.xml
+
+# PyCharm helper files
+*.iml
+*.ipr
+*.iws
+
+# VsCode
+*.code-workspace
+*.vscode
